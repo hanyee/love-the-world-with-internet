@@ -1,11 +1,13 @@
 {
-  "name"    : "some name",
-  "sex"     : "female",
-  "age"     : "13",
-  "height"  : "150cm",
-  "hometown": "ya an",
-  "address" : "No.1 some road",
-  "contact" : "some one",
-  "desc"    : "she is a lovely girl",
-  "pic"     : "some-pic.jpg"
+  "name"      : "some name",
+  "sex"       : "female",
+  "age"       : "13",
+  "height"    : "150cm",
+  "hometown"  : "ya an",
+  "city"      : "ya an",
+  "district"  : "bao xing",
+  "address"   : "No.1 some road",
+  "contact"   : "some one",
+  "desc"      : "she is a lovely girl",
+  "pic"       : "some-pic.jpg"
 }
